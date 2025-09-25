@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Naveen
 
-<!--
-**naveenkumar8309/naveenkumar8309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student currently learning Python and Full Stack Development.  
+This GitHub profile showcases my practice work and projects as I prepare for placements.  
+My goal is to become job-ready within the next 6–8 months.  
 
-Here are some ideas to get you started:
+## Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python programming and problem solving  
+- Web development using Flask/Django  
+- Building projects such as ScamGuard and To-Do App  
+- Preparing for upcoming placement opportunities  
+
+## Contact
+📫 Email: kudumalanaveenkumar3@gmail.com
